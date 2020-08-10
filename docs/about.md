@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<!-- I make user-facing backend web services and platform solutions to support developer efficiency. -->
-
 Pragmatic software engineer with expertise developing high-quality code and delivering products under pressure.  Enthusiastic about API design and building intuitive interfaces that clients love to use.  Proven track record of high-quality communication, client management, and self-motivated professional development.
 
 ---
